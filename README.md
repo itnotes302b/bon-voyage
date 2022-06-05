@@ -14,12 +14,12 @@
 
 #### Now the analysis is based on prediction of user 
 
-![image](https://user-images.githubusercontent.com/75021117/151698976-b0d4ac6c-0980-4653-bea7-20ab58e905e4.png)
+<!-- ![image](https://user-images.githubusercontent.com/75021117/151698976-b0d4ac6c-0980-4653-bea7-20ab58e905e4.png)
 
 ![image](https://user-images.githubusercontent.com/75021117/151698992-7150f866-4b62-4a87-ac65-26d5fcd3ac71.png)
 
 ![image](https://user-images.githubusercontent.com/75021117/151698998-af3de32e-d50d-4e74-bda7-d10fa66ee55a.png)
-
+ -->
 <hr>
 
 <h3> There are more analysis method included to perform the all analysis visit :http://www.nlpfaculty.co/</h3>
